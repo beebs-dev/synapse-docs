@@ -5,7 +5,7 @@ export default defineConfig({
   srcDir: "docs",
   base: "/synapse-docs",
   title: "Synapse",
-  description: "Synapse Documentations",
+  description: "Synapse Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
