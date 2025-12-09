@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: What is Synapse?
-      link: /what-is-Synapse
+      link: /vision/overview
     - theme: alt
       text: How to contribute
       link: /how-to-contribute
